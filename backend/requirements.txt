@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+librouteros
+python-dotenv
